@@ -57,13 +57,14 @@ key: bc03177aa1
 xp: 100
 ```
 
-
+Agora que você já viu que a variável trata-se de um vetor de 100 posições, vamos multiplicar esse vetor todo por 1000.
 
 `@instructions`
-
+Essa é bem simples. Para multiplicar no R usamos o comando *.
+Basta chamar a variável playfair4 e multiplica-la por 1000.
 
 `@hint`
-
+escreva o nome da variável, o sinal de multiplicação e o valor 1000.
 
 `@pre_exercise_code`
 ```{r}
