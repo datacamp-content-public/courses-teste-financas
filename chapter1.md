@@ -68,17 +68,17 @@ escreva o nome da variável, o sinal de multiplicação e o valor 1000.
 
 `@pre_exercise_code`
 ```{r}
-
+playfair4 <- c(1:100)
 ```
 
 `@sample_code`
 ```{r}
-
+________ * ____
 ```
 
 `@solution`
 ```{r}
-
+playfair * 1000
 ```
 
 `@sct`
