@@ -29,7 +29,7 @@ Essa é fácil. Basicamente digite o nome da variável na console e você vai ve
 
 `@pre_exercise_code`
 ```{r}
-library(tidyverse)
+library(ggplot2)
 ```
 
 `@sample_code`
