@@ -29,7 +29,6 @@ Essa é fácil. Basicamente digite o nome da variável na console e você vai ve
 
 `@pre_exercise_code`
 ```{r}
-
 playfair4 <- read.csv("playfair4.csv")
 
 ```
