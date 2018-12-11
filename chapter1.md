@@ -22,26 +22,26 @@ Para contextualizar nossos estudos, vamos usar como ponto de partida o primeiro 
 Vamos reproduzi-lo!
 
 `@instructions`
-Carregue o arquivo playfair4.csv em uma variável chamada playfair4
+Já carregamos o dataset que contém os dados que playfair usou. Você precisa checar se está tudo em ordem, confira o valor da variável playfair4
 
 `@hint`
-Essa é fácil, basicamente completar o nome da variável. O resto do código está pronto.
+Essa é fácil. Basicamente digite o nome da variável na console e você vai ver o valor dela.
 
 `@pre_exercise_code`
 ```{r}
-library(ggplot2)
+library(tidyverse)
 playfair4 <- read.csv("playfair4.csv")
 
 ```
 
 `@sample_code`
 ```{r}
-
+______
 ```
 
 `@solution`
 ```{r}
-playfair4 <- read.csv("playfair4.csv")
+playfair4
 ```
 
 `@sct`
