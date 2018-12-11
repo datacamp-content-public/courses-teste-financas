@@ -3,6 +3,19 @@ title: 'Introdução ao ggplot2'
 description: 'Primeira abordagem ao pacote ggplot e suas funcionalidades.'
 ---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: d12e3704df
+xp: 50
+```
+
+`@projector_key`
+f0192db45a169d2339d8575a23c36899
+
+---
+
 ## Example coding exercise
 
 ```yaml
@@ -85,16 +98,3 @@ playfair4 * 1000
 ```{r}
 
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-key: d12e3704df
-xp: 50
-```
-
-`@projector_key`
-f0192db45a169d2339d8575a23c36899
