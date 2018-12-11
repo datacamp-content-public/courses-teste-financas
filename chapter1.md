@@ -78,7 +78,7 @@ ________ * ____
 
 `@solution`
 ```{r}
-playfair * 1000
+playfair4 * 1000
 ```
 
 `@sct`
