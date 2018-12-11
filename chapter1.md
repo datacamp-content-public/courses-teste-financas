@@ -29,7 +29,7 @@ Essa é fácil. Basicamente digite o nome da variável na console e você vai ve
 
 `@pre_exercise_code`
 ```{r}
-library(ggplot2)
+playfair4 <- c(1:100)
 ```
 
 `@sample_code`
