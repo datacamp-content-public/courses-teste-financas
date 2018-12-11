@@ -22,7 +22,7 @@ Para contextualizar nossos estudos, vamos usar como ponto de partida o primeiro 
 Vamos reproduzi-lo!
 
 `@instructions`
-Já carregamos o dataset que contém os dados que playfair usou. Você precisa checar se está tudo em ordem, confira o valor da variável playfair4
+Já carregamos o dataset que contém os dados que playfair usou. Você precisa checar se está tudo em ordem, confira o valor da variável **playfair4**
 
 `@hint`
 Essa é fácil. Basicamente digite o nome da variável na console e você vai ver o valor dela.
