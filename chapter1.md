@@ -3,7 +3,7 @@ title: 'Introdução ao ggplot2'
 description: 'Primeira abordagem ao pacote ggplot e suas funcionalidades.'
 ---
 
-## Insert exercise title here
+## Apresentação do curso
 
 ```yaml
 type: VideoExercise
